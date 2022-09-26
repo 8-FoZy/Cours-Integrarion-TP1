@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    background-color: rgb(187, 187, 187);
+}
+header{
+    background-color: rgb(0, 255, 0);
+    padding: 4px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+h1{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+.titre{
+    display: flex;
+    padding: 10px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+}
+.en_tete{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.image{
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+    margin-right: 5px;
+}
+.divflex{
+    display: flex;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    padding : 100px;
+}
+.adroite{
+    font-family: 'Roboto', sans-serif;
+}
+.citronvert{
+    display: block;
+    width: 400px;
+}
+span{
+    font-weight: bold;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.formulaire{
+    background-color: #FFF;
+    margin-top: 100px;
+    width: 300px;
+}
+.texte{
+    margin-left: 5px;
+}
+.zoneachat{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+
